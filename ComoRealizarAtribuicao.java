@@ -6,7 +6,7 @@ public class ComoRealizarAtribuicao {
 		 int x;
 	     double y;
 	        // A Variavel pode ser alterada conforme a necessidade
-	        x = 6000
+	        x = 654135341;
 	        y = 2 * x;
 	        
 	        System.out.println(x);
